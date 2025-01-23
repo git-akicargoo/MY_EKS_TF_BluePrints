@@ -1,3 +1,1 @@
-# demo-my-eks-tf
-# MY_EKS_TF_BluePrints
-# MY_EKS_TF_BluePrints
+내 블루프린츠 테라폼 eks
